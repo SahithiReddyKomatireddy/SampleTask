@@ -1,0 +1,12 @@
+src/
+├── main/
+│   └── java/
+│       └── pages/
+│           └── BasePage.java
+│           └── HowOldRuPage.java
+│       └── utils/
+│           └── WebDriverFactory.java
+├── test/
+│   └── java/
+│       └── tests/
+│           └── TestHowOldRu.java
